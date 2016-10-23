@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNA 3.0 Demo 1 - Draw sprite", "XNA 3.0 Demo 1 - Draw sprite\XNA 3.0 Demo 1 - Draw sprite.csproj", "{AF4B0B4E-5E9C-43C2-8AAE-E4D8635FCBEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF4B0B4E-5E9C-43C2-8AAE-E4D8635FCBEA}.Debug|x86.ActiveCfg = Debug|x86
+		{AF4B0B4E-5E9C-43C2-8AAE-E4D8635FCBEA}.Debug|x86.Build.0 = Debug|x86
+		{AF4B0B4E-5E9C-43C2-8AAE-E4D8635FCBEA}.Release|x86.ActiveCfg = Release|x86
+		{AF4B0B4E-5E9C-43C2-8AAE-E4D8635FCBEA}.Release|x86.Build.0 = Release|x86
+		{C0A8B013-53EA-4E34-A5C8-6B2810AECA06}.Debug|x86.ActiveCfg = Debug|x86
+		{C0A8B013-53EA-4E34-A5C8-6B2810AECA06}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

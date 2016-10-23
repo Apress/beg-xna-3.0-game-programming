@@ -1,0 +1,88 @@
+<Configuration>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/f:StartScene.cs" caret="2525" scrollPosition="0|0" />
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/d:Core/f:TextMenuComponent.cs" caret="728" scrollPosition="0|0" />
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/f:ActionScene.cs" caret="7975" scrollPosition="0|0" />
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/f:AudioLibrary.cs" caret="1482" scrollPosition="0|56" />
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/f:Game1.cs" caret="2585" scrollPosition="0|54" />
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/f:MeteorsManager.cs" caret="1123" scrollPosition="0|27" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/d:Core/f:TextMenuComponent.cs" caret="1129" scrollPosition="0|24" />
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/d:Core/f:TextMenuComponent.cs" caret="1413" scrollPosition="0|29" />
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/d:Core/f:TextMenuComponent.cs" caret="1976" scrollPosition="0|39" />
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/d:Core/f:TextMenuComponent.cs" caret="5294" scrollPosition="0|158" />
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/f:ActionScene.cs" caret="443" scrollPosition="0|4" />
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/f:ActionScene.cs" caret="1825" scrollPosition="0|46" />
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/f:ActionScene.cs" caret="2076" scrollPosition="0|50" />
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/f:ActionScene.cs" caret="1785" scrollPosition="40|41" />
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/f:ActionScene.cs" caret="3644" scrollPosition="0|91" />
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/f:ActionScene.cs" caret="7581" scrollPosition="0|220" />
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/f:ActionScene.cs" caret="45" scrollPosition="0|0" />
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/f:ActionScene.cs" caret="2392" scrollPosition="27|57" />
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/f:ActionScene.cs" caret="7960" scrollPosition="0|231" />
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/f:ActionScene.cs" caret="8462" scrollPosition="0|244" />
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/f:MeteorsManager.cs" caret="108" scrollPosition="0|0" />
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/f:MeteorsManager.cs" caret="1125" scrollPosition="0|23" />
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/f:MeteorsManager.cs" caret="2766" scrollPosition="0|87" />
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/f:MeteorsManager.cs" caret="4164" scrollPosition="0|134" />
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/f:StartScene.cs" caret="2127" scrollPosition="10|40" />
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/f:Game1.cs" caret="3421" scrollPosition="23|75" />
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/f:Game1.cs" caret="3856" scrollPosition="40|75" />
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/f:AudioLibrary.cs" caret="160" scrollPosition="0|0" />
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/f:StartScene.cs" caret="593" scrollPosition="0|0" />
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/f:StartScene.cs" caret="1804" scrollPosition="0|35" />
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/f:StartScene.cs" caret="4530" scrollPosition="0|109" />
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/d:Core/f:TextMenuComponent.cs" caret="843" scrollPosition="0|19" />
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/d:Core/f:TextMenuComponent.cs" caret="1683" scrollPosition="0|39" />
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/f:StartScene.cs" caret="2706" scrollPosition="0|60" />
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/f:StartScene.cs" caret="2525" scrollPosition="0|40" />
+      <File id="BDA38B02-D0E7-4BCD-96F1-A0D27901F06A/d:Core/f:TextMenuComponent.cs" caret="61" scrollPosition="0|0" />
+    </RecentEdits>
+  </RecentFiles>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+      <setting name="UseSolutionBuilder">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Play" priority="10" />
+      <Item value="menuSelect" priority="0" />
+      <Item value="MediaPlayer" priority="0" />
+      <Item value="Stop" priority="2" />
+      <Item value="backMusic" priority="1" />
+      <Item value="newMeteorSound" priority="0" />
+      <Item value="explosionSound" priority="0" />
+      <Item value="SoundEffect" priority="0" />
+      <Item value="Pause" priority="0" />
+      <Item value="Resume" priority="0" />
+      <Item value="powerGet" priority="1" />
+      <Item value="powerShow" priority="1" />
+      <Item value="menuScroll" priority="0" />
+      <Item value="explosion" priority="0" />
+      <Item value="powerSource" priority="0" />
+      <Item value="AudioLibrary" priority="0" />
+      <Item value="LoadContent" priority="0" />
+      <Item value="MenuScroll" priority="0" />
+      <Item value="StartMusic" priority="0" />
+      <Item value="List&lt;string&gt;" priority="0" />
+      <Item value="NewMeteor" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

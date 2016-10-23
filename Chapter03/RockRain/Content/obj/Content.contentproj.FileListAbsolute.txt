@@ -1,0 +1,2 @@
+C:\Users\Jalf\Documents\XNA Book\Fontes do Livro\Chapter03\RockRain\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jalf\Documents\XNA Book\Fontes do Livro\Chapter03\RockRain\Content\obj\x86\Debug\audio.xml

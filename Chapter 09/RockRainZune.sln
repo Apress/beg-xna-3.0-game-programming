@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockRainZune", "RockRainZune.csproj", "{5F992733-9842-4A35-A09B-87CE83F8C6F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Zune = Debug|Zune
+		Release|Zune = Release|Zune
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F992733-9842-4A35-A09B-87CE83F8C6F8}.Debug|Zune.ActiveCfg = Debug|Zune
+		{5F992733-9842-4A35-A09B-87CE83F8C6F8}.Debug|Zune.Build.0 = Debug|Zune
+		{5F992733-9842-4A35-A09B-87CE83F8C6F8}.Debug|Zune.Deploy.0 = Debug|Zune
+		{5F992733-9842-4A35-A09B-87CE83F8C6F8}.Release|Zune.ActiveCfg = Release|Zune
+		{5F992733-9842-4A35-A09B-87CE83F8C6F8}.Release|Zune.Build.0 = Release|Zune
+		{5F992733-9842-4A35-A09B-87CE83F8C6F8}.Release|Zune.Deploy.0 = Release|Zune
+		{66E88FBD-5479-4E53-A242-EDDBE46C4928}.Debug|Zune.ActiveCfg = Debug|Zune
+		{66E88FBD-5479-4E53-A242-EDDBE46C4928}.Release|Zune.ActiveCfg = Release|Zune
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

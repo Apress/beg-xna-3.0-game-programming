@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>helpscreen.jpg</Source>
+      <Name>helpscreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Games\RockRainZune\bin\Zune\Release\Content\helpscreen.xnb</Output>
+      <Time>2008-05-07T19:56:34-03:00</Time>
+    </Item>
+    <Item>
+      <Source>menuSmall.spritefont</Source>
+      <Name>menuSmall</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Games\RockRainZune\bin\Zune\Release\Content\menuSmall.xnb</Output>
+      <Time>2008-05-07T18:43:22-03:00</Time>
+    </Item>
+    <Item>
+      <Source>menuLarge.spritefont</Source>
+      <Name>menuLarge</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Games\RockRainZune\bin\Zune\Release\Content\menuLarge.xnb</Output>
+      <Time>2008-05-07T18:43:22-03:00</Time>
+    </Item>
+    <Item>
+      <Source>score.spritefont</Source>
+      <Name>score</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Games\RockRainZune\bin\Zune\Release\Content\score.xnb</Output>
+      <Time>2008-05-07T22:36:22-03:00</Time>
+    </Item>
+    <Item>
+      <Source>newmeteor.wav</Source>
+      <Name>newmeteor</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Games\RockRainZune\bin\Zune\Release\Content\newmeteor.xnb</Output>
+      <Time>2008-05-07T19:06:28-03:00</Time>
+    </Item>
+    <Item>
+      <Source>menu_select3.wav</Source>
+      <Name>menu_select3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Games\RockRainZune\bin\Zune\Release\Content\menu_select3.xnb</Output>
+      <Time>2008-05-07T19:20:44-03:00</Time>
+    </Item>
+    <Item>
+      <Source>menu_scroll.wav</Source>
+      <Name>menu_scroll</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Games\RockRainZune\bin\Zune\Release\Content\menu_scroll.xnb</Output>
+      <Time>2008-05-07T19:21:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.wav</Source>
+      <Name>explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Games\RockRainZune\bin\Zune\Release\Content\explosion.xnb</Output>
+      <Time>2008-05-07T22:02:28-03:00</Time>
+    </Item>
+    <Item>
+      <Source>menu_back.wav</Source>
+      <Name>menu_back</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Games\RockRainZune\bin\Zune\Release\Content\menu_back.xnb</Output>
+      <Time>2008-05-07T22:11:12-03:00</Time>
+    </Item>
+    <Item>
+      <Source>powerget.wav</Source>
+      <Name>powerget</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Games\RockRainZune\bin\Zune\Release\Content\powerget.xnb</Output>
+      <Time>2008-05-07T22:32:28-03:00</Time>
+    </Item>
+    <Item>
+      <Source>powershow.wav</Source>
+      <Name>powershow</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Games\RockRainZune\bin\Zune\Release\Content\powershow.xnb</Output>
+      <Time>2008-05-07T22:33:32-03:00</Time>
+    </Item>
+    <Item>
+      <Source>backmusic.mp3</Source>
+      <Name>backmusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Games\RockRainZune\bin\Zune\Release\Content\backmusic.xnb</Output>
+      <Extra>C:\Users\Cliente\Documents\XNA Book\Games\RockRainZune\bin\Zune\Release\Content\backmusic.wma</Extra>
+      <Time>2008-05-07T23:27:10-03:00</Time>
+    </Item>
+    <Item>
+      <Source>startmusic.mp3</Source>
+      <Name>startmusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Games\RockRainZune\bin\Zune\Release\Content\startmusic.xnb</Output>
+      <Extra>C:\Users\Cliente\Documents\XNA Book\Games\RockRainZune\bin\Zune\Release\Content\startmusic.wma</Extra>
+      <Time>2008-05-07T23:27:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>startbackground.jpg</Source>
+      <Name>startbackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Games\RockRainZune\bin\Zune\Release\Content\startbackground.xnb</Output>
+      <Time>2009-02-12T15:01:30.10609-03:00</Time>
+    </Item>
+    <Item>
+      <Source>startsceneelements.png</Source>
+      <Name>startsceneelements</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Games\RockRainZune\bin\Zune\Release\Content\startsceneelements.xnb</Output>
+      <Time>2008-05-07T18:53:42-03:00</Time>
+    </Item>
+    <Item>
+      <Source>rockrainenhanced.png</Source>
+      <Name>rockrainenhanced</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Games\RockRainZune\bin\Zune\Release\Content\rockrainenhanced.xnb</Output>
+      <Time>2008-05-07T21:54:58-03:00</Time>
+    </Item>
+    <Item>
+      <Source>spacebackground.jpg</Source>
+      <Name>spacebackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Games\RockRainZune\bin\Zune\Release\Content\spacebackground.xnb</Output>
+      <Time>2008-05-07T22:42:16-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Zune</TargetPlatform>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Cliente\Documents\XNA Book\Games\RockRainZune\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Cliente\Documents\XNA Book\Games\RockRainZune\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Cliente\Documents\XNA Book\Games\RockRainZune\Content\obj\Zune\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Cliente\Documents\XNA Book\Games\RockRainZune\bin\Zune\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-09-29T18:34:28-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-09-29T18:35:26-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-09-29T18:35:14-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-09-29T18:40:34-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-09-29T18:41:08-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2009-01-20T08:34:28.0668886-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

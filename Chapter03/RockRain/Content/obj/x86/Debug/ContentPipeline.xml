@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Versão 3.0\Chapter03\RockRain\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2007-07-30T15:19:39.6466859-03:00</Time>
+    </Item>
+    <Item>
+      <Source>SpaceBackground.dds</Source>
+      <Name>SpaceBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Versão 3.0\Chapter03\RockRain\bin\x86\Debug\Content\SpaceBackground.xnb</Output>
+      <Time>2006-10-30T00:50:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>RockRain.png</Source>
+      <Name>RockRain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Versão 3.0\Chapter03\RockRain\bin\x86\Debug\Content\RockRain.xnb</Output>
+      <Time>2007-05-20T14:20:06.2736001-03:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.wav</Source>
+      <Name>explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Versão 3.0\Chapter03\RockRain\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2000-05-29T20:38:34-03:00</Time>
+    </Item>
+    <Item>
+      <Source>newmeteor.wav</Source>
+      <Name>newmeteor</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Versão 3.0\Chapter03\RockRain\bin\x86\Debug\Content\newmeteor.xnb</Output>
+      <Time>1999-05-31T12:50:50-03:00</Time>
+    </Item>
+    <Item>
+      <Source>backmusic.mp3</Source>
+      <Name>backmusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Versão 3.0\Chapter03\RockRain\bin\x86\Debug\Content\backmusic.xnb</Output>
+      <Extra>C:\Users\Cliente\Documents\XNA Book\Versão 3.0\Chapter03\RockRain\bin\x86\Debug\Content\backmusic.wma</Extra>
+      <Time>2008-05-07T23:27:10-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Cliente\Documents\XNA Book\Versão 3.0\Chapter03\RockRain\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Cliente\Documents\XNA Book\Versão 3.0\Chapter03\RockRain\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Cliente\Documents\XNA Book\Versão 3.0\Chapter03\RockRain\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Cliente\Documents\XNA Book\Versão 3.0\Chapter03\RockRain\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-09-29T18:34:28-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-09-29T18:35:26-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-09-29T18:35:14-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-09-29T18:40:34-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-09-29T18:41:08-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2009-01-20T08:34:28.0668886-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

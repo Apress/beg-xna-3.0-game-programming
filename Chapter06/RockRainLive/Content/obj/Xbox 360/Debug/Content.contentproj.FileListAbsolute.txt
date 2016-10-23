@@ -1,0 +1,2 @@
+C:\Users\Jalf\Documents\XNA Book\Fontes do Livro\Chapter06\RockRainLive\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\Cliente\Documents\XNA Book\Fontes do Livro\Chapter06\RockRainLive\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache

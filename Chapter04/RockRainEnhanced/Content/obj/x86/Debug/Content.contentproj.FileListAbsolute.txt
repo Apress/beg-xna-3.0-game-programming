@@ -1,0 +1,3 @@
+C:\Users\Jalf\Documents\XNA Book\Fontes do Livro\Chapter04\RockRainEnhanced\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cliente\Documents\XNA Book\Fontes do Livro\Chapter04\RockRainEnhanced\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cliente\Documents\XNA Book\Versão 3.0\Chapter04\RockRainEnhanced\Content\obj\x86\Debug\ResolveAssemblyReference.cache

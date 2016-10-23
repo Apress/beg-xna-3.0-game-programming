@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>helpbackground.jpg</Source>
+      <Name>helpbackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Fontes do Livro\Chapter06\RockRainLive\bin\x86\Debug\Content\helpbackground.xnb</Output>
+      <Time>2007-11-25T20:43:00.5153837-03:00</Time>
+    </Item>
+    <Item>
+      <Source>rockrainenhanced.png</Source>
+      <Name>rockrainenhanced</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Fontes do Livro\Chapter06\RockRainLive\bin\x86\Debug\Content\rockrainenhanced.xnb</Output>
+      <Time>2007-11-25T21:22:46.5643837-03:00</Time>
+    </Item>
+    <Item>
+      <Source>startbackground.jpg</Source>
+      <Name>startbackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Fontes do Livro\Chapter06\RockRainLive\bin\x86\Debug\Content\startbackground.xnb</Output>
+      <Time>2007-11-25T20:29:01.3803837-03:00</Time>
+    </Item>
+    <Item>
+      <Source>startSceneElements.png</Source>
+      <Name>startSceneElements</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Fontes do Livro\Chapter06\RockRainLive\bin\x86\Debug\Content\startSceneElements.xnb</Output>
+      <Time>2007-11-15T22:50:56.7722205-03:00</Time>
+    </Item>
+    <Item>
+      <Source>SpaceBackground.dds</Source>
+      <Name>SpaceBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Fontes do Livro\Chapter06\RockRainLive\bin\x86\Debug\Content\SpaceBackground.xnb</Output>
+      <Time>2006-10-30T00:50:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>helpforeground.jpg</Source>
+      <Name>helpforeground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Fontes do Livro\Chapter06\RockRainLive\bin\x86\Debug\Content\helpforeground.xnb</Output>
+      <Time>2007-11-25T21:37:20.5183837-03:00</Time>
+    </Item>
+    <Item>
+      <Source>networkBackground.jpg</Source>
+      <Name>networkBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Fontes do Livro\Chapter06\RockRainLive\bin\x86\Debug\Content\networkBackground.xnb</Output>
+      <Time>2007-11-25T20:29:01.3803837-03:00</Time>
+    </Item>
+    <Item>
+      <Source>menuLarge.spritefont</Source>
+      <Name>menuLarge</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Fontes do Livro\Chapter06\RockRainLive\bin\x86\Debug\Content\menuLarge.xnb</Output>
+      <Time>2007-11-15T22:50:56.6242205-03:00</Time>
+    </Item>
+    <Item>
+      <Source>menuSmall.spritefont</Source>
+      <Name>menuSmall</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Fontes do Livro\Chapter06\RockRainLive\bin\x86\Debug\Content\menuSmall.xnb</Output>
+      <Time>2007-11-15T22:50:56.6342205-03:00</Time>
+    </Item>
+    <Item>
+      <Source>score.spritefont</Source>
+      <Name>score</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Fontes do Livro\Chapter06\RockRainLive\bin\x86\Debug\Content\score.xnb</Output>
+      <Time>2007-11-19T20:46:23.2995973-03:00</Time>
+    </Item>
+    <Item>
+      <Source>backmusic.mp3</Source>
+      <Name>backmusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Fontes do Livro\Chapter06\RockRainLive\bin\x86\Debug\Content\backmusic.xnb</Output>
+      <Extra>C:\Users\Cliente\Documents\XNA Book\Fontes do Livro\Chapter06\RockRainLive\bin\x86\Debug\Content\backmusic.wma</Extra>
+      <Time>2008-05-07T23:27:10-03:00</Time>
+    </Item>
+    <Item>
+      <Source>startmusic.mp3</Source>
+      <Name>startmusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Fontes do Livro\Chapter06\RockRainLive\bin\x86\Debug\Content\startmusic.xnb</Output>
+      <Extra>C:\Users\Cliente\Documents\XNA Book\Fontes do Livro\Chapter06\RockRainLive\bin\x86\Debug\Content\startmusic.wma</Extra>
+      <Time>2008-05-07T23:27:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.wav</Source>
+      <Name>explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Fontes do Livro\Chapter06\RockRainLive\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2000-05-29T20:38:34-03:00</Time>
+    </Item>
+    <Item>
+      <Source>menu_back.wav</Source>
+      <Name>menu_back</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Fontes do Livro\Chapter06\RockRainLive\bin\x86\Debug\Content\menu_back.xnb</Output>
+      <Time>2007-11-07T15:13:08-03:00</Time>
+    </Item>
+    <Item>
+      <Source>menu_scroll.wav</Source>
+      <Name>menu_scroll</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Fontes do Livro\Chapter06\RockRainLive\bin\x86\Debug\Content\menu_scroll.xnb</Output>
+      <Time>2007-11-07T15:13:08-03:00</Time>
+    </Item>
+    <Item>
+      <Source>menu_select3.wav</Source>
+      <Name>menu_select3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Fontes do Livro\Chapter06\RockRainLive\bin\x86\Debug\Content\menu_select3.xnb</Output>
+      <Time>2007-11-07T15:13:08-03:00</Time>
+    </Item>
+    <Item>
+      <Source>newmeteor.wav</Source>
+      <Name>newmeteor</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Fontes do Livro\Chapter06\RockRainLive\bin\x86\Debug\Content\newmeteor.xnb</Output>
+      <Time>1999-05-31T12:50:50-03:00</Time>
+    </Item>
+    <Item>
+      <Source>powerget.wav</Source>
+      <Name>powerget</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Fontes do Livro\Chapter06\RockRainLive\bin\x86\Debug\Content\powerget.xnb</Output>
+      <Time>2007-04-12T17:50:36-03:00</Time>
+    </Item>
+    <Item>
+      <Source>powershow.wav</Source>
+      <Name>powershow</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cliente\Documents\XNA Book\Fontes do Livro\Chapter06\RockRainLive\bin\x86\Debug\Content\powershow.xnb</Output>
+      <Time>2007-04-12T17:50:36-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Cliente\Documents\XNA Book\Fontes do Livro\Chapter06\RockRainLive\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Cliente\Documents\XNA Book\Fontes do Livro\Chapter06\RockRainLive\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Cliente\Documents\XNA Book\Fontes do Livro\Chapter06\RockRainLive\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Cliente\Documents\XNA Book\Fontes do Livro\Chapter06\RockRainLive\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-09-29T18:34:28-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-09-29T18:35:26-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-09-29T18:35:14-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-09-29T18:40:34-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-09-29T18:41:08-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2009-01-20T08:34:28.0668886-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,1 @@
+All source code must be compiled in Visual Studio 2008, Express, Professional or Team System Editions

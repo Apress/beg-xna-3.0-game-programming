@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Arial.spritefont</Source>
+      <Name>Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\USUARIOS\Atlan\DOCS\Livros\XNA Book\XNA 3.0\Beginning XNA 2.0 Full Manuscript\Chapter 5\XNADemo 3.0 Demo - Net\XNADemo 3.0 Demo - Net\bin\x86\Debug\Content\Arial.xnb</Output>
+      <Time>2007-12-27T15:30:58-02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\USUARIOS\Atlan\DOCS\Livros\XNA Book\XNA 3.0\Beginning XNA 2.0 Full Manuscript\Chapter 5\XNADemo 3.0 Demo - Net\XNADemo 3.0 Demo - Net\Content\</RootDirectory>
+      <LoggerRootDirectory>D:\USUARIOS\Atlan\DOCS\Livros\XNA Book\XNA 3.0\Beginning XNA 2.0 Full Manuscript\Chapter 5\XNADemo 3.0 Demo - Net\XNADemo 3.0 Demo - Net\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\USUARIOS\Atlan\DOCS\Livros\XNA Book\XNA 3.0\Beginning XNA 2.0 Full Manuscript\Chapter 5\XNADemo 3.0 Demo - Net\XNADemo 3.0 Demo - Net\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\USUARIOS\Atlan\DOCS\Livros\XNA Book\XNA 3.0\Beginning XNA 2.0 Full Manuscript\Chapter 5\XNADemo 3.0 Demo - Net\XNADemo 3.0 Demo - Net\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T16:42:32-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T16:43:28-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T16:43:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T16:48:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T16:48:50-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2008-12-03T18:39:24.441875-02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
